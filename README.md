@@ -16,9 +16,9 @@
 
 
 
-<h4 align="left">
+<h2 align="left">
   Getting Started
-</h4>
+</h2>
 
 In the project directory, you can run:
 

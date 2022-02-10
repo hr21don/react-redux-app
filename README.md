@@ -12,8 +12,9 @@
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/hr21don)](https://github.com/hr21don) 
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&link=https://github.com/hr21don)](https://github.com/hr21don)
-[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=white&link=https://github.com/hr21don)](https://github.com/hr21don) [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white&link=https://github.com/hr21don)](https://github.com/hr21don) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/hr21don)](https://github.com/hr21don) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hr21don)](https://github.com/hr21don) 
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=white&link=https://github.com/hr21don)](https://github.com/hr21don)
+[![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white&link=https://github.com/hr21don)](https://github.com/hr21don) 
+
 
 
 <h2 align="left">

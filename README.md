@@ -95,10 +95,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-<h4 align="left">
+<h2 align="left">
   License + Credit
-</h4>
+</h2>
 
 This project is under the MIT license. See the [LICENSE](https://blissful-tereshkova-989460.netlify.app/) for more information.
+
+[Drakosi99](https://github.com/drakosi99/discord-mern-starter) : Grab the starter files for the front-end here...
+
 
 

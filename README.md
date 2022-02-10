@@ -102,5 +102,11 @@ This project is under the MIT license. See the [LICENSE](https://blissful-teresh
 
 [Drakosi99](https://github.com/drakosi99/discord-mern-starter) : Grab the MERN Front-end here!
 
+Contributions are always Welcome...
 
-
+- Fork the repository
+- Improve current program by
+- improving functionality
+- adding new feature
+- bug fixes
+- Push your work and Create a Pull Request

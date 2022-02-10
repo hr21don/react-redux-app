@@ -6,15 +6,6 @@
   Discord Clone tech stack || JavaScript, HTML, CSS, Firebase
 </h4>
 
-
-<h4 align="left">
-  Demonstration of the Developed Clone Project.
-</h4>
-
-<a href="https://i.ibb.co/G39tcZb/redux.png"><img src="https://i.ibb.co/G39tcZb/redux.png" title="source: imgbb" /></a>
-<a href="https://i.ibb.co/f9SBFyB/lobby.jpg"><img src="https://i.ibb.co/f9SBFyB/lobby.jpg" title="source: imgbb" /></a>
-
-
 <h2 align="left">
   Technologies
 </h2>
@@ -93,6 +84,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+<h4 align="left">
+  Demonstration of the Developed Clone Project.
+</h4>
+
+<a href="https://i.ibb.co/G39tcZb/redux.png"><img src="https://i.ibb.co/G39tcZb/redux.png" title="source: imgbb" /></a>
+<a href="https://i.ibb.co/f9SBFyB/lobby.jpg"><img src="https://i.ibb.co/f9SBFyB/lobby.jpg" title="source: imgbb" /></a>
 
 
 <h2 align="left">

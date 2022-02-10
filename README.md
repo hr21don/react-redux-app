@@ -100,7 +100,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 This project is under the MIT license. See the [LICENSE](https://blissful-tereshkova-989460.netlify.app/) for more information.
 
-[Drakosi99](https://github.com/drakosi99/discord-mern-starter) : Grab the starter files for the front-end here...
+[Drakosi99](https://github.com/drakosi99/discord-mern-starter) : Grab the MERN Front-end here!
 
 
 

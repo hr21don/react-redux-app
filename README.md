@@ -15,9 +15,9 @@
 <a href="https://i.ibb.co/f9SBFyB/lobby.jpg"><img src="https://i.ibb.co/f9SBFyB/lobby.jpg" title="source: imgbb" /></a>
 
 
-<h4 align="left">
+<h2 align="left">
   Technologies
-</h4>
+</h2>
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)

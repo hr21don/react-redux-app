@@ -12,7 +12,7 @@
 </h4>
 
 <a href="https://i.ibb.co/G39tcZb/redux.png"><img src="https://i.ibb.co/G39tcZb/redux.png" title="source: imgbb" /></a>
-<a href="https://i.ibb.co/6X7g8cd/lobby-chat.png"><img src="https://i.ibb.co/6X7g8cd/lobby-chat.png" title="source: imgbb" /></a>
+<a href="https://i.ibb.co/f9SBFyB/lobby.jpg"><img src="https://i.ibb.co/f9SBFyB/lobby.jpg" title="source: imgbb" /></a>
 
 
 <h4 align="left">

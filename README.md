@@ -86,21 +86,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-<h4 align="left">
+<h3 align="left">
   Demonstration of the Developed Clone Project.
-</h4>
+</h3>
 
 <a href="https://i.ibb.co/G39tcZb/redux.png"><img src="https://i.ibb.co/G39tcZb/redux.png" title="source: imgbb" /></a>
 <a href="https://i.ibb.co/f9SBFyB/lobby.jpg"><img src="https://i.ibb.co/f9SBFyB/lobby.jpg" title="source: imgbb" /></a>
 
 
 <h2 align="left">
-  License + Credit
+  License 📝
 </h2>
 
 This project is under the MIT license. See the [LICENSE](https://blissful-tereshkova-989460.netlify.app/) for more information.
-
-[Drakosi99](https://github.com/drakosi99/discord-mern-starter) : Grab the MERN Front-end here!
 
 Contributions are always Welcome...
 

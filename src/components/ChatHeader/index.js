@@ -32,7 +32,7 @@ function ChatHeader({ channelName }) {
 
                 <div className="chatheader__search">
                     <input
-                        placeholder="Buscar"
+                        placeholder="Search"
                     />
                     <SearchRoundedIcon />
                 </div>

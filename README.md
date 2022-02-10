@@ -90,5 +90,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
   License + Credit
 </h4>
 
-This project is under the MIT license. See the [LICENSE](https://github.com/SilvaneiMartins/discord-clone/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://blissful-tereshkova-989460.netlify.app/) for more information.
 

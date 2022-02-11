@@ -93,9 +93,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 <a href="https://user-images.githubusercontent.com/91548582/153568038-9a01fd14-e51a-4b7c-86d9-c670735a8991.PNG"><img src="https://user-images.githubusercontent.com/91548582/153568038-9a01fd14-e51a-4b7c-86d9-c670735a8991.PNG" title="source: imgbb" /></a>
 <a href="https://user-images.githubusercontent.com/91548582/153567980-b38be6cc-47ed-48a2-ba58-e80f5fcb6fe1.PNG"><img src="https://user-images.githubusercontent.com/91548582/153567980-b38be6cc-47ed-48a2-ba58-e80f5fcb6fe1.PNG" title="source: imgbb" /></a>
 
-<h3 align="left">
+<h2 align="left">
     Features
-</h3>
+</h2>
     A simple clone of discord with chat room functionality like...
     
    - Creation of Channels
@@ -107,6 +107,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 </h2>
 
 This project is under the MIT license. See the [LICENSE](https://blissful-tereshkova-989460.netlify.app/) for more information.
+
+<h2 align="left">
+    Contributions
+</h2>
 
 Contributions are always Welcome...
 

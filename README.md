@@ -90,8 +90,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
   Demonstration of the Developed Clone Project.
 </h3>
 
-<a href="https://i.ibb.co/G39tcZb/redux.png"><img src="https://i.ibb.co/G39tcZb/redux.png" title="source: imgbb" /></a>
-<a href="https://i.ibb.co/f9SBFyB/lobby.jpg"><img src="https://i.ibb.co/f9SBFyB/lobby.jpg" title="source: imgbb" /></a>
+<a href="https://www.dropbox.com/s/3snduiqrznrspnv/redux.PNG?dl=0"><img src="https://www.dropbox.com/s/3snduiqrznrspnv/redux.PNG?dl=0" title="source: imgbb" /></a>
+<a href="https://www.dropbox.com/s/q5xwc83ds65nb4k/lobby%20chat.PNG?dl=0"><img src="https://www.dropbox.com/s/q5xwc83ds65nb4k/lobby%20chat.PNG?dl=0" title="source: imgbb" /></a>
 
 
 <h2 align="left">

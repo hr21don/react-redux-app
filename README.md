@@ -85,38 +85,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-<h2 align="left">
-  Demonstration of the Developed Clone Project.
-</h2>
-
-<a href="https://user-images.githubusercontent.com/91548582/153568038-9a01fd14-e51a-4b7c-86d9-c670735a8991.PNG"><img src="https://user-images.githubusercontent.com/91548582/153568038-9a01fd14-e51a-4b7c-86d9-c670735a8991.PNG" title="source: imgbb" /></a>
-<a href="https://user-images.githubusercontent.com/91548582/153567980-b38be6cc-47ed-48a2-ba58-e80f5fcb6fe1.PNG"><img src="https://user-images.githubusercontent.com/91548582/153567980-b38be6cc-47ed-48a2-ba58-e80f5fcb6fe1.PNG" title="source: imgbb" /></a>
-
-<h2 align="left">
-    Features
-</h2>
-    A simple clone of discord with chat room functionality like...
-    
-   - Creation of Channels
-   - Real-time messaging
-   - Timestamps for messages
-
-<h2 align="left">
-  License 📝
-</h2>
-
-This project is under the MIT license. See the [LICENSE](https://blissful-tereshkova-989460.netlify.app/) for more information.
-
-<h2 align="left">
-    Contributions
-</h2>
-
-Contributions are always Welcome...
-
-- Fork the repository
-- Improve current program by
-- improving functionality
-- adding new feature
-- bug fixes
-- Push your work and Create a Pull Request
